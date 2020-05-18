@@ -9,13 +9,6 @@ function Header() {
 
     let history = useHistory();
 
-    const signIn = () => {
-        window.location.href = baseURIs.webApplication.signin;
-    }
-
-    const signUp = () => {
-        window.location.href = baseURIs.webApplication.signup;
-    }
 
     return (
         <div id="header">
@@ -33,8 +26,6 @@ function Header() {
                                 <li><a href="#" data-nav-section="about"><span>About</span></a></li>
                                 <li><a href="#" data-nav-section="work"><span>Work</span></a></li>
                                 <li><a href="#" data-nav-section="contact"><span>Contact</span></a></li>
-                                <li style={{marginLeft: "10px", marginTop: "5px"}}><Button onClick={signIn} color="primary">Sign In</Button></li>
-                                <li style={{marginLeft: "10px", marginTop: "5px"}}><Button onClick={signUp} color="info">Sign Up</Button></li>
                             </ul>
                         </div>
                     </nav>
