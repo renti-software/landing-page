@@ -1,5 +1,5 @@
 {
-  "name": "mylife",
+  "name": "renti",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,9 +14,9 @@
     "font-awesome": "^4.7.0",
     "google-maps-react": "^2.0.2",
     "history": "^4.10.1",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.1",
     "mdbreact": "^4.25.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "passport": "^0.4.1",
     "passport-fitbit-oauth2": "^1.0.2",
     "prop-types": "^15.7.2",
