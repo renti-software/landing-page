@@ -1,3 +1,5 @@
+# Renti Landing Page
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -23,3 +25,6 @@ To work locally with this project, you'll have to follow the steps below:
 1. Generate the website: `npm run build` (optional)
 
 (This will only work when the React project is made available in the repository. For now, you can only preview the page locally running `serve -s build/`
+
+## Notes
+This structure was imported from MyLife repository in which 2 out of 4 members are working in.
