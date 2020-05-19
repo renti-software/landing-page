@@ -24,7 +24,6 @@ function Header() {
                                 <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
                                 <li><a href="#" data-nav-section="services"><span>Product</span></a></li>
                                 <li><a href="#" data-nav-section="about"><span>About</span></a></li>
-                                <li><a href="https://gitlab.com/renti-software"><span>GitLab</span></a></li>
                             </ul>
                         </div>
                     </nav>

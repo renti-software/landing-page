@@ -8,14 +8,14 @@ function Footer() {
                 <div class="container">
                     <div class="">
                         <div class="col-md-12 text-center">
-                            <p><strong>MyLife 2020 &copy;</strong>  All Rights Reserved. <br /><a href="https://www.ua.pt/deti/">Universidade de Aveiro - DETI</a></p>
+                            <p><strong>Renti 2020 &copy;</strong>  All Rights Reserved. <br /><a href="https://www.ua.pt/deti/">Universidade de Aveiro - DETI</a></p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <ul class="social social-circle">
                                 <li><a href="/"><i class="icon-globe"></i></a></li>
-                                <li><a href="https://gitlab.com/groups/my-life-ua/"><i class="fab fa-gitlab"></i></a></li>
+                                <li><a href="https://gitlab.com/renti-software/"><i class="fab fa-gitlab"></i></a></li>
                             </ul>
                         </div>
                     </div>
