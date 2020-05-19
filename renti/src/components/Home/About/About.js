@@ -16,7 +16,7 @@ function About() {
                             <h2 class="to-animate">Our team</h2>
                             <div class="row">
                                 <div class="col-md-8 col-md-offset-2 subtext to-animate">
-                                    <h3>These are the actors of MyLife project.</h3>
+                                    <h3>These are the actors of Renti project.</h3>
                                 </div>
                             </div>
                         </div>
@@ -53,8 +53,8 @@ function About() {
                                 <span class="fh5co-position">Product Owner</span>
                                 <ul class="social social-circle">
                                     <li><a href=""><i class="icon-globe"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/tomascostax/"><i class="icon-linkedin"></i></a></li>
-                                    <li><a href="https://github.com/TomasCostaK"><i class="icon-github"></i></a></li>
+                                    <li><a href="https://www.facebook.com/francisco.jesus.92"><i class="icon-facebook"></i></a></li>
+                                    <li><a href="https://gitlab.com/franciscojesus"><i class="icon-github"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -65,8 +65,7 @@ function About() {
                                 <span class="fh5co-position">QA Engineer</span>
                                 <ul class="social social-circle">
                                     <li><a href=""><i class="icon-globe"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/tomascostax/"><i class="icon-linkedin"></i></a></li>
-                                    <li><a href="https://github.com/TomasCostaK"><i class="icon-github"></i></a></li>
+                                    <li><a href="https://gitlab.com/miguelmatos"><i class="icon-github"></i></a></li>
                                 </ul>
                             </div>
                         </div>
