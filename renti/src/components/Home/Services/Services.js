@@ -7,29 +7,20 @@ function Services() {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 section-heading text-left">
-                            <h2 class=" left-border to-animate">Services</h2>
+                            <h2 class=" left-border to-animate">Product</h2>
                             <div class="row">
                                 <div class="col-md-8 subtext to-animate">
-                                    <h3>A brief description of the services we plan to implement.</h3>
+                                    <h3 style={{fontSize:30,fontWeight:'normal'}}>Check below what we are all about!</h3>
+                                    <h3 style={{fontSize:30,fontWeight:'normal'}}>Or check our <a href="https://gitlab.com/renti-software/">repository</a></h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
-                            <i class="icon to-animate-2 fas fa-heartbeat"></i>
-                            <h3>Real-time data with Fitbit Charge 3</h3>
-                            <p>In order to help us monitorizing the lifestyle of a specific user, we will use the Fitbit Charge 3 band. With this band, we will be able to gather some real-time information about heart rate, sleep quality, burnt calories and much more!</p>
-                        </div>
-                        <div class="col-md-6 col-sm-6 fh5co-service to-animate">
-                            <i class="icon to-animate-2 fas fa-dumbbell"></i>
-                            <h3>Crossfit training recognition</h3>
-                            <p>When a user wants to have feedback about his crossfit training, he can record and send it to our servers in order to be processed. With the help of <strong>OpenPose</strong> software, we can check if a certain exercise was done correctly or not. We will use <strong>Flask</strong> to develop this module.</p>
-                        </div>
-                        <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-robot"></i>
-                            <h3>Food recognition with ML</h3>
-                            <p>In order to identify and quantify different types of food present in a plate, we will develop a machine learning engine in <strong>Python</strong> that will process pictures taken with a smartphone.</p>
+                            <h3>Code Quality Analysis</h3>
+                            <p>Texto</p>
                         </div>
 
                         <div class="clearfix visible-sm-block"></div>
@@ -37,7 +28,7 @@ function Services() {
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-laptop"></i>
                             <h3>Mobile and Web applications</h3>
-                            <p>In order to interact with the different users of our system, we will develop different applications for each one. For the patients, we will be developing both a mobile app and a web app. For the doctor and the admin of the hospital, both will have a customized web app. Both the applications wil be developed with <strong>React.</strong></p>
+                            <p>In order to interact with the different users of our system, we will develop different applications for each one. For the patients, we will be developing both a mobile app and a web app. For the doctor and the admin of the hospital, both will have a customized web app. Both the applications will be developed with <strong>React.</strong></p>
                         </div>
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-cloud-meatball"></i>
