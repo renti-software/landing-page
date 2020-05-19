@@ -2,11 +2,9 @@ import React from 'react';
 
 // import team pictures
 import team01 from '../../../assets/home/team/team01.png';
-import team02 from '../../../assets/home/team/team02.jpg';
-import team03 from '../../../assets/home/team/team03.jpg';
+import team02 from '../../../assets/home/team/team02.png';
+import team03 from '../../../assets/home/team/team03.png';
 import team04 from '../../../assets/home/team/team04.png';
-import team05 from '../../../assets/home/team/team05.jpg';
-import team06 from '../../../assets/home/team/cc.png';
 
 function About() {
     return (
@@ -50,7 +48,7 @@ function About() {
                         </div>
                         <div class="col-md-3">
                             <div class="fh5co-person text-center to-animate">
-                                <figure><img src={team04} alt="Image" /></figure>
+                                <figure><img src={team02} alt="Image" /></figure>
                                 <h3>Francisco Jesus</h3>
                                 <span class="fh5co-position">Product Owner</span>
                                 <ul class="social social-circle">
@@ -62,7 +60,7 @@ function About() {
                         </div>
                         <div class="col-md-3">
                             <div class="fh5co-person text-center to-animate">
-                                <figure><img src={team04} alt="Image" /></figure>
+                                <figure><img src={team03} alt="Image" /></figure>
                                 <h3>Miguel Matos</h3>
                                 <span class="fh5co-position">QA Engineer</span>
                                 <ul class="social social-circle">

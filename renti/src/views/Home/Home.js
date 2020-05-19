@@ -20,12 +20,8 @@ function Home() {
         <div id="home">
             <Header />
             <HomeSection />
-            <Intro />
             <Services />
             <About />
-            <Work />
-            <Counters />
-            <Contacts />
             <Footer />
         </div>
     );
