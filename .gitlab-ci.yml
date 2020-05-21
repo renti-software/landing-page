@@ -1,0 +1,27 @@
+image: node # change to match your node version
+
+cache:
+  paths:
+    - node_modules/
+
+# test:
+#   stage: test
+#   script:
+#     - CI=true npm test
+
+pages:
+  stage: deploy
+  before_script:
+    - cd renti/
+    - npm install
+  script:
+    - npm run build
+    - cd ..
+    - rm -rf public
+    - mv renti/build public
+  artifacts:
+    paths:
+      - public # GitLab pages serve from a 'public' directory
+  only:
+    - master # run on master branch
+
