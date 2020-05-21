@@ -15,7 +15,7 @@ pages:
     - cd renti/
     - npm install
   script:
-    - npm run build
+    - CI=false npm run build
     - cd ..
     - rm -rf public
     - mv renti/build public
