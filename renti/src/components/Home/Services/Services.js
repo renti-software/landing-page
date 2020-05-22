@@ -20,7 +20,7 @@ function Services() {
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-robot"></i>
                             <h3>Code Quality Analysis</h3>
-                            <p>Texto</p>
+                            <p>In order to improve our Code Quality and Security, we have implemented Static Code Analysis metrics in our project. This is done using <a href="https://docs.gitlab.com/ee/user/project/merge_requests/code_quality.html">GitLab Code Quality<a>, which uses <a href="https://codeclimate.com/">Code Climate Engines<a>. This steps are incorporated into our Continuous Integration and Deployment pipeline, so that it is embed in each commit, and easily readable in each Merge Request</p>
                         </div>
 
                         <div class="clearfix visible-sm-block"></div>
