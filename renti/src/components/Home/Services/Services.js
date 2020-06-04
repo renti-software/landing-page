@@ -10,7 +10,7 @@ function Services() {
                             <h2 class=" left-border to-animate">Product</h2>
                             <div class="row">
                                 <div class="col-md-8 subtext to-animate">
-                                    <h3 style={{fontSize:30,fontWeight:'normal'}}>Check below what we are all about!</h3>
+                                    <h3 style={{fontSize:30,fontWeight:'normal'}}>Check <a href="http://192.168.160.62/">our marketplace</a> what we are all about!</h3>
                                     <h3 style={{fontSize:30,fontWeight:'normal'}}>Or check our <a href="https://gitlab.com/renti-software/">repository</a></h3>
                                 </div>
                             </div>
@@ -28,12 +28,12 @@ function Services() {
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-laptop"></i>
                             <h3>Mobile and Web applications</h3>
-                            <p>In order to interact with the different users of our system, we will develop different applications for each one. For the patients, we will be developing both a mobile app and a web app. For the doctor and the admin of the hospital, both will have a customized web app. Both the applications will be developed with <strong>React.</strong></p>
+                            <p>We have developed the main application as a Web App, but we have created a more minimalist mobile application, which allows you to track your favourites and check the marketplace. Both the applications will be developed with <strong>React.</strong></p>
                         </div>
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-cloud-meatball"></i>
                             <h3>Service layer REST API</h3>
-                            <p>This module is the core of our information system, responsible to communicate with all the other components. This <strong>REST API</strong>, built in <strong>Django</strong>, will do CRUD operations to a <strong>PostgreSQL</strong> database and send data to the clients applications.</p>
+                            <p>This module is the core of our information system, responsible to communicate with all the other components. This <strong>REST API</strong>, built in <strong>Spring Boot</strong>, will do CRUD operations to a <strong>PostgreSQL</strong> database and send data to the clients applications.</p>
                         </div>
                         <div class="col-md-6 col-sm-6 fh5co-service to-animate">
                             <i class="icon to-animate-2 fas fa-sync-alt"></i>
